@@ -1,7 +1,7 @@
 --
 -- Remember to run this with "--stop-on-error=false" if piping to sqlcmd.
 --
--- e.g sqlcmd --stop-on-error=false < tetrun.sql
+-- e.g sqlcmd --stop-on-error=false < testrun.sql
 --
 -- Or you could start a sqlcmd session and cut and paste the commands..
 --
